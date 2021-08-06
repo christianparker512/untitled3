@@ -15,3 +15,6 @@ console.log(parkers);
 const bobs = ['matt', 'rob', 'brad', 'trace','chris'];
 bobs.shift();
 console.log(bobs)
+//adds element to the front of the array
+bobs.unshift('mateo')
+console.log(bobs)
